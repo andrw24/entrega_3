@@ -1,0 +1,6 @@
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTryCatch\AppTryCatch\bin\Debug\AppTryCatch.exe.config
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTryCatch\AppTryCatch\bin\Debug\AppTryCatch.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTryCatch\AppTryCatch\bin\Debug\AppTryCatch.pdb
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTryCatch\AppTryCatch\obj\Debug\AppTryCatch.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTryCatch\AppTryCatch\obj\Debug\AppTryCatch.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTryCatch\AppTryCatch\obj\Debug\AppTryCatch.pdb

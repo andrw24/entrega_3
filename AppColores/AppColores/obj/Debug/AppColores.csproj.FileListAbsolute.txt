@@ -1,0 +1,8 @@
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppColores\AppColores\bin\Debug\AppColores.exe.config
+C:\Users\LAB104BPC17\Documents\Visual Studio 2012\Projects\AppColores\AppColores\bin\Debug\AppColores.exe
+C:\Users\LAB104BPC17\Documents\Visual Studio 2012\Projects\AppColores\AppColores\bin\Debug\AppColores.pdb
+C:\Users\LAB104BPC17\Documents\Visual Studio 2012\Projects\AppColores\AppColores\obj\Debug\AppColores.Form1.resources
+C:\Users\LAB104BPC17\Documents\Visual Studio 2012\Projects\AppColores\AppColores\obj\Debug\AppColores.Properties.Resources.resources
+C:\Users\LAB104BPC17\Documents\Visual Studio 2012\Projects\AppColores\AppColores\obj\Debug\AppColores.csproj.GenerateResource.Cache
+C:\Users\LAB104BPC17\Documents\Visual Studio 2012\Projects\AppColores\AppColores\obj\Debug\AppColores.exe
+C:\Users\LAB104BPC17\Documents\Visual Studio 2012\Projects\AppColores\AppColores\obj\Debug\AppColores.pdb

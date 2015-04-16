@@ -1,0 +1,9 @@
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTextBoxContraseña\AppTextBoxContraseña\bin\Debug\AppTextBoxContraseña.exe.config
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTextBoxContraseña\AppTextBoxContraseña\obj\Debug\AppTextBoxContraseña.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTextBoxContraseña\AppTextBoxContraseña\obj\Debug\AppTextBoxContraseña.Form1.resources
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTextBoxContraseña\AppTextBoxContraseña\obj\Debug\AppTextBoxContraseña.Properties.Resources.resources
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTextBoxContraseña\AppTextBoxContraseña\obj\Debug\AppTextBoxContraseña.csproj.GenerateResource.Cache
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTextBoxContraseña\AppTextBoxContraseña\bin\Debug\AppTextBoxContraseña.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTextBoxContraseña\AppTextBoxContraseña\bin\Debug\AppTextBoxContraseña.pdb
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTextBoxContraseña\AppTextBoxContraseña\obj\Debug\AppTextBoxContraseña.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppTextBoxContraseña\AppTextBoxContraseña\obj\Debug\AppTextBoxContraseña.pdb
